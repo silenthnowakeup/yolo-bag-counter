@@ -12,7 +12,7 @@
 ### 1. Клонирование репозитория
 
 ```
-git clone https://github.com/yourusername/yolo-bag-counter.git  
+git clone https://github.com/silenthnowakeup/yolo-bag-counter.git  
 cd yolo-object-counter
 ```
 
